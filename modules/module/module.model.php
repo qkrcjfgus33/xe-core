@@ -9,7 +9,7 @@ class moduleModel extends module
 {
 	/**
 	 * @brief Initialization
-	 */
+	 */getDefaultMid
 	function init()
 	{
 	}
@@ -77,7 +77,7 @@ class moduleModel extends module
 	}
 
 	/**
-	 * @brief Get the defaul mid according to the domain
+	 * @brief Get the default mid according to the domain
 	 */
 	function getDefaultMid()
 	{
